@@ -17,7 +17,8 @@ console.log(Math.sqrt(64));
 console.log(Math.abs(-4.4));
 console.log(Math.max(0, 100, 2, 3, 999, -1));
 console.log(Math.min(0, 100, 2, 3, 999, -1));
+console.log(Math.sin(12));
 
 setInterval(() => {
-    console.log(Math.random());
+     console.log(Math.random());
 }, 1000)
